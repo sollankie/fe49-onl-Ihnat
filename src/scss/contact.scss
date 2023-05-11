@@ -80,32 +80,22 @@
 .fa-facebook-f__contact {
   &:hover {
     color: rgba(63, 63, 204, 1);
-    border: 2px solid rgba(63, 63, 204, 1);
-    box-shadow: 5px 5px 10px $grey;
-    transform: scale(1.5, 1.5);
     transition: 0.2s;
-    background-color: rgba(255, 255, 255, 0.8);
   }
 }
 
 .fa-twitter__contact {
   &:hover {
     color: rgba(20, 188, 255, 1);
-    border: 2px solid rgba(20, 188, 255, 1);
-    box-shadow: 5px 5px 10px $grey;
-    transform: scale(1.5, 1.5);
+
     transition: 0.2s;
-    background-color: rgba(255, 255, 255, 0.8);
   }
 }
 
 .fa-linkedin__contact {
   &:hover {
     color: rgba(21, 102, 163, 1);
-    border: 2px solid rgba(21, 102, 163, 1);
-    box-shadow: 5px 5px 10px $grey;
-    transform: scale(1.5, 1.5);
     transition: 0.2s;
-    background-color: rgba(255, 255, 255, 0.8);
+
   }
 }
